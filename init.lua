@@ -664,6 +664,8 @@ require('lazy').setup({
         -- javascript = { { "prettierd", "prettier" } },
         javascript = { 'prettierd' },
         typescript = { 'prettierd' },
+        javascriptreact = { 'prettierd' },
+        typescriptreact = { 'prettierd' },
         scss = { { 'stylelint', 'prettierd' } },
       },
     },
